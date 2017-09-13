@@ -14,5 +14,5 @@
 
   <packaging>jar</packaging>
 
-  <name>more decorator</name>
+  <name>Decorator design pattern 2</name>
 </project>

@@ -13,6 +13,7 @@
     <modules>
         <module>decorator</module>
         <module>more-decorator</module>
+        <module>chain-builder</module>
     </modules>
 
     <build>
